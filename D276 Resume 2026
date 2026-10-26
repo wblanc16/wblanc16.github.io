@@ -74,13 +74,33 @@ Create space for html linked table
 <caption><strong>Education</strong></caption>
 <thead>
 <tr>
+<th>School Type</th>
 <th>School</th>
 <th>City</th>
 <th>State</th>
 </tr>
 </thead>
 <tbody>
-<td><Portland High School</td> <td>Portland</td> <td>Maine</td>
+<tr>
+<td>High School</td>
+<td><Portland High School</td> 
+<td>Portland</td>
+<td>Maine</td>
+</tr>
+<tr>
+<td>Community College</td>
+<td>Maine Community College</td>
+<td>South Portland</td>
+<td>Maine</td>
+</tr>
+<tr>
+<td>University</td>
+<td>Western Governors University</td>
+<td>Millcreek</td>
+<td>Utah</td>
+</tr>
+</tbody>
+<tfoot>
 
 Links to Cover Letter <a ref="https://www.github.com/wblanc16/wblanc16.github.io/ and Career Goals <a ref=https://www.github.com/wblanc16/wblanc16.github.io/
 </body>
