@@ -67,7 +67,20 @@ White Mountain National Forest
 Bartlett, NH 03812
 
 Managing a 56 unit Inn and ancillary buildings, including 10 condominium units. Supervising housekeeping, front desk, night security and maintenance. Aesthetic maintenance of historic structure in mountainous setting. </p>
+<div that contains date for Javascript>
 
+Create space for html linked table
+<table>
+<caption><strong>Education</strong></caption>
+<thead>
+<tr>
+<th>School</th>
+<th>City</th>
+<th>State</th>
+</tr>
+</thead>
+<tbody>
+<td><Portland High School</td> <td>Portland</td> <td>Maine</td>
 
 Links to Cover Letter <a ref="https://www.github.com/wblanc16/wblanc16.github.io/ and Career Goals <a ref=https://www.github.com/wblanc16/wblanc16.github.io/
 </body>
