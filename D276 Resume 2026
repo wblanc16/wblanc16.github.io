@@ -101,6 +101,11 @@ Create space for html linked table
 </tr>
 </tbody>
 <tfoot>
+<tr>
+<td colspan="4">End of list</td>
+</tr>
+</tfoot>
+</table>
 
 Links to Cover Letter <a ref="https://www.github.com/wblanc16/wblanc16.github.io/ and Career Goals <a ref=https://www.github.com/wblanc16/wblanc16.github.io/
 </body>
